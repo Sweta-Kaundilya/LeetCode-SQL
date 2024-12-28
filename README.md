@@ -1,4 +1,3 @@
-# LeetCode-SQL
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
