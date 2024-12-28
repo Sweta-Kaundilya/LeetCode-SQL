@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Sweta-Kaundilya/LeetCode-SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sweta-Kaundilya/LeetCode-SQL/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Sweta-Kaundilya/LeetCode-SQL/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Sweta-Kaundilya/LeetCode-SQL/tree/master/1827-invalid-tweets) |
